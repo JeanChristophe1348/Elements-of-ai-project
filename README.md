@@ -1,3 +1,9 @@
+#My AI Idea
+
+AI Project: Smart Routing of HR and Payroll Requests
+
+The idea of this project is to build an AI system that helps public administration HR services automatically classify requests related to payroll, family situation, allowances, taxation, and administrative follow-up.
+
 ## Summary
 The idea of this project is to build an AI system that helps public administration offices classify incoming emails automatically and send them to the correct department.
 
