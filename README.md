@@ -1,4 +1,4 @@
-# My AI idea
+# My AI Idea
 
 AI Project: Smart Routing of HR and Payroll Requests
 
